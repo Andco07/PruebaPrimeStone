@@ -1,0 +1,7 @@
+Dependences
+
+1. postgress
+2. flask 
+3. from flask_sqlalchemy
+4. json
+5. psycopg2
